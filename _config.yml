@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+title: IBM Cloud Solution Guidance
+description: Solution guidance for Build and Move solutions on IBM Cloud platform
+
+heading_anchors: true
+
+color_scheme: ibmcloud
